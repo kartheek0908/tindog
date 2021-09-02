@@ -1,0 +1,185 @@
+h1
+{
+
+  font-family: 'Montserrat-Black';
+  font-size:3rem;
+  line-height:1.5;
+  font-weight:bolder;
+}
+body{
+    font-family: 'Montserrat';
+}
+h3
+{
+  font-family:"Montserrat-Bold";
+  font-size:1.5rem;
+  font-weight:900;
+}
+h2
+{
+  font-family: 'Montserrat-Bold';
+  font-size:3rem;
+  line-height:1.5;
+  font-weight:bolder;
+}
+#title
+{
+  background-color:#ff4c68;
+  color:#fff;
+}
+.container-fluid
+{
+  padding:3% 15% 9%;
+}
+
+.navbar-brand
+{
+  font-family:"Ubuntu";
+  font-size:2.5rem;
+  font-weight:bold;
+}
+.navbar{
+  padding:0 0 4.75rem;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.nav-link
+{
+  font-size:1.2rem;
+  font-family:'Montserrat-Light';
+}
+.dwnldbtn
+{
+  margin:5% 3% 2% 0;
+}
+.title-image
+{
+  width:60%;
+  transform:rotate(25deg);
+  position:absolute;
+  right:30%;
+}
+
+.p
+{
+  color:#8f8f8f;
+}
+.fa-heart,.fa-check-circle,.fa-bullseye
+{
+
+
+    color:#ef8172;
+    font-size:2.5rem;
+    text-align: center;
+}
+.fa-heart:hover,.fa-check-circle:hover,.fa-bullseye:hover{
+   color:#ff4c68;
+}
+
+#features
+{
+  padding:7% 15%;
+  background-color:white;
+  position:relative;
+  z-index:1;
+}
+.c {
+  text-align:center;
+
+  }
+.fa-heart
+{
+  margin-left:95px;
+}
+#testimonials
+{
+
+  text-align:center;
+  background-color:#ef8172;
+  color:white;
+}
+.testimonials-image
+{
+  width:10%;
+  border-radius:100%;
+  margin:20px;
+}
+#press
+{
+  background-color:#ef8172;
+  text-align:center;
+  padding-bottom:3%;
+}
+.press-logo
+{
+  width:15%;
+  margin:20px 20px 50px;
+}
+.carousel-item
+{
+  padding:7% 15%;
+}
+.cl
+{
+  background-color: blue;
+}
+#pricing
+{
+  padding:100px;
+  text-align:center;
+}
+.paddy
+{
+  padding:2% 3%;
+}
+@media(max-width:970px)
+{
+  #title
+  {
+    text-align:center;
+  }
+  .title-image
+  {
+
+
+    position:static;
+    transform:rotate(0)
+
+  }
+  #features
+  {
+    position:static;
+  }
+  .hai
+  {
+    margin:0 auto 0 auto;
+    margin-left: 116px;
+  }
+}
+#cta{
+  background-color:#ff4c68;
+  text-align:center;
+  font-family:"Montserrat-Black";
+  padding: 90px 5px;
+  margin: 100px 100px;
+
+}
+.find{
+  width: 350px;
+  margin:0 auto 0 auto;
+  line-height:2;
+  padding-bottom:30px;
+  font-size:2rem;
+  font-weight: 900;
+  color:white;
+}
+#footer{
+  text-align:center;
+  background-color:white;
+}
+.k
+{
+  margin:10px 10px;
+}
